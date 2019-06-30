@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/soualo/Documents/CPP/TME_UPMC/TME2/src/Box.cpp
+Box.h
+-
+algorithm
+-
+
+/home/soualo/Documents/CPP/TME_UPMC/TME2/src/Box.h
+string
+-
+iostream
+-
+
+/home/soualo/Documents/CPP/TME_UPMC/TME2/src/Main.cpp
+Box.h
+-
+
